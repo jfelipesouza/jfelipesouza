@@ -35,7 +35,7 @@ Atualmente, utilizo em projetos pessoais ou profissionais:
 
 ##
 
-Entre em contato comigo por (+55) 079 99178-9984 ou por email joao.felipe.18@outlook.com || j.felipe.dev.18@gmail.com
+Entre em contato comigo por telefone (+55) 079 99178-9984 ou por email joao.felipe.18@outlook.com || j.felipe.dev.18@gmail.com
 
 <div>
     <a href = "mailto:j.felipe.dev.18@gmail.com">
