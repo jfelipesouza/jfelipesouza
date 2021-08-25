@@ -1,6 +1,6 @@
 ### Ola! 👋
 
-**I'm João Felipe de Oliveira Souza 👨‍🚀**. Atualmente trabalho como desenvolvedor mobile e web. 
+**Me chamo João Felipe de Oliveira Souza 👨‍🚀**. Atualmente trabalho como desenvolvedor mobile e web. 
 
 Atualmente, minha pilha é:
 
