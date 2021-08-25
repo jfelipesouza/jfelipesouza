@@ -1,6 +1,6 @@
-### Ola! 👋
+### Ola!
 
-**Me chamo João Felipe de Oliveira Souza 👨‍🚀**. Atualmente trabalho como desenvolvedor mobile e web. 
+**Me chamo João Felipe de Oliveira Souza 👨‍🚀**. 
 
 Atualmente, utilizo em projetos pessoais ou profissionais:
 
@@ -29,4 +29,6 @@ Atualmente, utilizo em projetos pessoais ou profissionais:
    
 </div>
 
-###
+##
+
+banana
