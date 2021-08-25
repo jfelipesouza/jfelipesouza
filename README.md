@@ -9,6 +9,8 @@ Atualmente, utilizo em projetos pessoais ou profissionais:
 :satellite: API with **NodeJs**; <br/>
 :floppy_disk: Database: **Mongo**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL**;<br/>
 
+##
+
 <div style='display:flex'>
   <a href='https://github.com/jfelipesouza' >
 
