@@ -23,6 +23,10 @@ Atualmente, utilizo em projetos pessoais ou profissionais:
     <img align="center" alt="jfelipesouza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="jfelipesouza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="jfelipesouza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/mongodb.png"/>
+    <img align="center" alt="jfelipesouza-Mongo" height="30" width="40" src="https://img.icons8.com/color/452/mongodb.png"/>
+    <img align="center" alt="jfelipesouza-Firebase" height="30" width="40" src="https://img.icons8.com/color/452/firebase.png"/>
+    <img align="center" alt="jfelipesouza-Figma" height="30" width="40" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
+   
+&nbsp;
 
 </div>
