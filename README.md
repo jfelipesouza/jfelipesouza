@@ -9,7 +9,7 @@ Atualmente, utilizo em projetos pessoais ou profissionais:
 :satellite: API with **NodeJs**; <br/>
 :floppy_disk: Database: **Mongo**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL**;<br/>
 
-<div>
+<div style='display:flex'>
   <a href='https://github.com/jfelipesouza' >
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfelipesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
