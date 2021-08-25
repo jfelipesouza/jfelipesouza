@@ -44,7 +44,11 @@ Entre em contato comigo por telefone (+55) 079 99178-9984 ou por email joao.feli
     <a href = "mailto:j.felipe.dev.18@gmail.com">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
     </a>
+        <a href="phone: (+55) 079 99178-9984" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a> 
     
+
 
 </div>
 
@@ -59,9 +63,5 @@ Entre em contato comigo por telefone (+55) 079 99178-9984 ou por email joao.feli
     <a href="https://www.linkedin.com/in/jo%C3%A3o-felipe-de-oliveira-souza-0928071a9/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-    <a href="phone: (+55) 079 99178-9984" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-    </a> 
-    
 
 </div>
