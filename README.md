@@ -5,7 +5,7 @@
 Atualmente, utilizo em projetos pessoais ou profissionais:
 
 :iphone: Utilizo para o desenvolvimento de aplicativos Android e IOS **React Native**, **Flutter**, **Kivy**; <br/> 
-:computer: Para desenvolvimento web utilizo **ReactJs**; <br/>
+:computer: Para desenvolvimento web utilizo **ReactJs**,**Next.JS**; <br/>
 :satellite: API with **NodeJs**; <br/>
 :floppy_disk: Database: **Mongo**, **Firebase (Cloud Firestore/Real Time)**, **MySQL**;<br/>
 
