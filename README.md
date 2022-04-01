@@ -37,16 +37,16 @@ Atualmente, utilizo em projetos pessoais ou profissionais:
 
 Entre em contato comigo:
    * telefone: (+55) 079 99178-9984 
-   * e-mail: joao.felipe.18@outlook.com || j.felipe.dev.18@gmail.com
+   * e-mail: joao.felipe.21@outlook.com || j.felipe.dev.18@gmail.com
 
 <div>
     <a href = "mailto:j.felipe.dev.18@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href = "mailto:j.felipe.dev.18@gmail.com">
+    <a href = "mailto:joao.felipe.21@outlook.com">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
     </a>
-        <a href="phone: (+55) 079 99178-9984" target="_blank">
+    <a href="phone: (+55) 079 99178-9984" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a> 
     
