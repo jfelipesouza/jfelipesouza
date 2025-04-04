@@ -36,7 +36,7 @@ Atualmente, utilizo em projetos pessoais ou profissionais:
 ##
 
 Entre em contato comigo:
-   * telefone: (+55) 079 99178-9984 
+
    * e-mail: joao.felipe.21@outlook.com || j.felipe.dev.18@gmail.com
 
 <div>
@@ -50,8 +50,6 @@ Entre em contato comigo:
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a> 
     
-
-
 </div>
 
 ##
