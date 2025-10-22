@@ -3,11 +3,12 @@ name: Generate Snake
 on:
   push:
     branches:
-      - master
+      - master 
+  
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   
+  
   workflow_dispatch:
-
 
 jobs:
   build:
@@ -15,23 +16,17 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: jfelipesouza
+          github_user_name: jfelipesouza          
+          
           outputs: |
-            dist/snake.svg
-            dist/snake-dracula.svg # Um novo nome para o arquivo SVG
-          palette: |
-            # A paleta Dracula
-            - color_snake: "#BD93F9"    # Roxo (Purple) - para a cobra
-              color_dot: "#282A36"      # Fundo (Background) - 0 commits
-              color_dot0: "#282A36"     # Fundo (Background) - 0 commits
-              color_dot1: "#44475A"     # Corrente (Current Line/Selection) - 1 a 4 commits
-              color_dot2: "#50FA7B"     # Verde (Green) - 5 a 9 commits
-              color_dot3: "#8BE9FD"     # Ciano (Cyan) - 10 a 14 commits
-              color_dot4: "#FF79C6"     # Pink (Pink) - 15+ commits
+            dist/snake-dracula.svg?palette=dracula         
+          
+          color_snake: "#BD93F9"
+      
       - name: Push snake.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-        env:
+        env:          
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
