@@ -33,7 +33,7 @@ Atualmente, utilizo em projetos pessoais ou profissionais:
 
 </div>
 
-![Snake animation](https://github.com/jfelipesouza/jfelipesouza/blob/output/snake-dracula.svg)
+![Animação da cobra de commits - Dracula](https://raw.githubusercontent.com/jfelipesouza/jfelipesouza/output/snake-dracula.svg)
 
 ##
 
