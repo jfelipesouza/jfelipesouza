@@ -33,6 +33,8 @@ Atualmente, utilizo em projetos pessoais ou profissionais:
 
 </div>
 
+![Snake animation](https://github.com/jfelipesouza/jfelipesouza/blob/output/snake.svg)
+
 ##
 
 Entre em contato comigo:
