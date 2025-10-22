@@ -18,15 +18,15 @@ jobs:
           github_user_name: jfelipesouza
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg
+            dist/snake-neon-dark.svg
           palette: |
-            - color_snake: "#a020f0"         # roxo da cobra
-              color_dot: "#0f0f0f"           # fundo dark
-              color_dot0: "#0f0f0f"
-              color_dot1: "#004d00"          # verde escuro
-              color_dot2: "#006666"          # azul escuro
-              color_dot3: "#00cc66"          # verde mais claro
-              color_dot4: "#00ffff"          # azul neon
+            - color_snake: "#b100ff"       # roxo neon
+              color_dot: "#000000"         # fundo preto
+              color_dot0: "#000000"
+              color_dot1: "#00b894"        # verde neon
+              color_dot2: "#00cec9"        # ciano
+              color_dot3: "#0984e3"        # azul vibrante
+              color_dot4: "#6c5ce7"        # lilás neon
       - name: Push snake.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
