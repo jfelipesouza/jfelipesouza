@@ -1,4 +1,4 @@
-name: Generate Snake (Neon Dark)
+name: Generate Snake
 
 on:
   push:
@@ -8,6 +8,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,10 +16,18 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: jfelipesouza
-          outputs: dist/snake-neon-dark.svg
-          color_snake: "#b100ff"           # roxo neon
-          color_dots: "#00b894 #00cec9 #0984e3 #6c5ce7"  # gradiente neon
-          background_color: "#000000"      # fundo preto absoluto
+          outputs: |
+            dist/snake.svg
+            dist/snake-dracula.svg # Um novo nome para o arquivo SVG
+          palette: |
+            # A paleta Dracula
+            - color_snake: "#BD93F9"    # Roxo (Purple) - para a cobra
+              color_dot: "#282A36"      # Fundo (Background) - 0 commits
+              color_dot0: "#282A36"     # Fundo (Background) - 0 commits
+              color_dot1: "#44475A"     # Corrente (Current Line/Selection) - 1 a 4 commits
+              color_dot2: "#50FA7B"     # Verde (Green) - 5 a 9 commits
+              color_dot3: "#8BE9FD"     # Ciano (Cyan) - 10 a 14 commits
+              color_dot4: "#FF79C6"     # Pink (Pink) - 15+ commits
       - name: Push snake.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
