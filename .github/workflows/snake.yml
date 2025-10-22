@@ -3,30 +3,35 @@ name: Generate Snake
 on:
   push:
     branches:
-      - master 
-  
+      - master
   schedule:
-    - cron: "0 0 * * *"   
-  
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: jfelipesouza          
+          github_user_name: jfelipesouza
           
           outputs: |
-            dist/snake-dracula.svg?palette=dracula         
+            dist/snake-dracula.svg
           
-          color_snake: "#BD93F9"
-      
+          palette: |
+            color_snake: "#BD93F9"
+            color_dot: "#282A36"
+            color_dot0: "#282A36"
+            color_dot1: "#44475A"
+            color_dot2: "#50FA7B"
+            color_dot3: "#8BE9FD"
+            color_dot4: "#FF79C6"
+
       - name: Push snake.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-        env:          
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
